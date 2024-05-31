@@ -24,9 +24,7 @@ public class Process {
         return pid;
     }
 
-    public String getName() {
-        return name;
-    }
+   
 
     public long getMinTime() {
         return minTime;
