@@ -30,9 +30,7 @@ public class Process {
         return minTime;
     }
 
-    public long getMaxTime() {
-        return maxTime;
-    }
+
 
     @Override
     public boolean equals(Object obj){
